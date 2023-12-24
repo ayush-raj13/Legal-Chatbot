@@ -45,3 +45,10 @@ ___
 - `pyproject.toml`: TOML file to specify which versions of the dependencies used (Poetry)
 - `requirements.txt`: List of Python dependencies (and version)
 ___
+## Screenshots
+
+![Screenshot (189)](https://github.com/ayush-raj13/Legal-Chatbot/assets/113297899/682327a1-df5e-4dbd-ba05-de1a2daabbf7)
+
+![Screenshot (177)](https://github.com/ayush-raj13/Legal-Chatbot/assets/113297899/59f0bcba-00a0-4679-ad33-6e128de78038)
+
+![Screenshot (180)](https://github.com/ayush-raj13/Legal-Chatbot/assets/113297899/c4a2c6b4-efc6-465b-aafd-4deae2186e32)
